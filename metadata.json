@@ -1,0 +1,7 @@
+{
+  "name": "Imitation Hexagon",
+  "description": "Survive the hexagon walls. Control the cursor with your hand.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
